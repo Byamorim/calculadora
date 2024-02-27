@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+      font-size:25px;
+      background-color:#FFF176;
+    }
+    .ibox {
+    width: 200px;
+    background-color: yellowgreen;
+    margin: 20px;
+    font-size:25px;
+    background-color:#FFF119;
+    }
+    #adicao{
+    font-size:25px;
+    background-color:#FFCA28;
+    border: 3px dashed;
+    padding:5px;
+    }
